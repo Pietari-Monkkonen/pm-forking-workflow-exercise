@@ -1,4 +1,4 @@
-Ingredients
+# Ingredients
 
     1kg lean minced beef
     1 tbsp olive oil
@@ -16,7 +16,7 @@ For the topping
     140g soft cheese with garlic and herbs
     140g parmesan, grated
 
-Method
+# Instructions
 
     STEP 1
 
